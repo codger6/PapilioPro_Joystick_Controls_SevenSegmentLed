@@ -1,0 +1,17 @@
+NET JOY_RIGHT      LOC="P59"  | IOSTANDARD=LVTTL;                  # B11
+NET JOY_LEFT       LOC="P57"  | IOSTANDARD=LVTTL;                  # B12
+NET JOY_DOWN       LOC="P55"  | IOSTANDARD=LVTTL;                  # B13
+NET JOY_UP         LOC="P50"  | IOSTANDARD=LVTTL;                  # B14
+NET JOY_SELECT     LOC="P47"  | IOSTANDARD=LVTTL;                  # B15
+NET SEG7_A         LOC="P75"  | IOSTANDARD=LVTTL;                  # A7
+NET SEG7_B         LOC="P83"  | IOSTANDARD=LVTTL;                  # A10
+NET SEG7_C         LOC="P66"  | IOSTANDARD=LVTTL;                  # A5
+NET SEG7_D         LOC="P67"  | IOSTANDARD=LVTTL;                  # A6
+NET SEG7_E         LOC="P58"  | IOSTANDARD=LVTTL;                  # A3
+NET SEG7_F         LOC="P61"  | IOSTANDARD=LVTTL;                  # A4
+NET SEG7_G         LOC="P81"  | IOSTANDARD=LVTTL;                  # A9
+NET SEG7_DP        LOC="P51"  | IOSTANDARD=LVTTL;                  # A1
+NET SEG7_AN(0)     LOC="P85"  | IOSTANDARD=LVTTL;                  # A11
+NET SEG7_AN(1)     LOC="P79"  | IOSTANDARD=LVTTL;                  # A8
+NET SEG7_AN(2)     LOC="P56"  | IOSTANDARD=LVTTL;                  # A2
+NET SEG7_AN(3)     LOC="P48"  | IOSTANDARD=LVTTL;                  # A0
